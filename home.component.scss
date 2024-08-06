@@ -1,0 +1,11 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .intro-card, .contact-card {
+    margin: 10px 0;
+  }
+  
